@@ -1,0 +1,25 @@
+.paisagem {
+    width: 150px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+    border: 1px solid #a5a5a5;
+    background: rgb(245, 245,245);
+    padding: 5px;
+}
+
+.texto-2-colunas {
+    column-count: 2;
+    column-gap: 50px;
+    text-align: justify;
+}
+
+.texto-3-colunas {
+    column-count: 3;
+    column-gap: 50px;
+    text-align: justify;
+}
+
+video {
+    width: 100%;
+}
